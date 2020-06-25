@@ -8,8 +8,8 @@ git clone https://github.com/rhuss623/ShellMaker.git
 
 Change permissions:
 ```
-cd InitScan
-chmod u+x shellmaker/shellmaker.sh
+cd ShellMaker
+chmod u+x shellmaker.sh
 ```
 
 Run shellmaker.sh with your local IP and listening port number as arguments:
